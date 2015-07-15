@@ -39,7 +39,7 @@ if (n == 3){
       lines3D(B[1:(i*s + 1), 1], B[1:(i*s + 1), 2], B[1:(i*s + 1), 3],
               xlim = range(B[,1]), ylim = range(B[,2]), zlim = range(B[,3]),
               ticktype = "detailed", colvar = NULL,
-              phi = 30, theta = 135, bty="b2")
+              phi = 30, theta = 135, bty = "b2")
     }
   }, interval = p, nmax = 100)
 }
