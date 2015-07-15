@@ -26,7 +26,6 @@ if (n == 3){
 
 # create animation
 if (n == 2){
-  plot(B[,1], B[,2], type="l")
   saveHTML({
     for (i in 1:100){
       plot(B[1:(i*s + 1), 1], B[1:(i*s + 1), 2], type = "l",
