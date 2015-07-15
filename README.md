@@ -8,6 +8,6 @@ The script currently has *n* = 3, *T* = 10, and *h* = 0.001. These can be modifi
 
 ## `index.html`
 
-This file and its supporting subfolders were created by `BMpaths.R`. Viewing this file on GitHub will only show you the source code. You can see the animation [here][id].
+This file and its supporting subfolders were created by `BMpaths.R`. Viewing this file on GitHub will only show you the source code. You can see the animation [here][1].
 
-[id]: https://rawgit.com/probabilist/Brownian-motion-paths/master/index.html "BMpaths animation"
+[1]: https://rawgit.com/probabilist/Brownian-motion-paths/master/index.html "BMpaths animation"
